@@ -1,0 +1,9 @@
+# 无用文件
+/public
+/node_modules
+npm-debug.log
+.DS_Store
+.cache
+.eslint-cache
+log
+.vscode
